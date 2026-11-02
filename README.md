@@ -15,15 +15,13 @@ No UI, no web page, no setup. Just a coin, a crystal and some bad news.
 🔮 Bugdini squints at src/server.js, where the retries ought to be...
 ```
 
-## Try it now (no install)
+## Want him?
 
-Open Claude Code or Codex in any project and paste this:
+Paste this into Claude Code or Codex:
 
 ```text
-Read https://raw.githubusercontent.com/adelelousmith/bugdini/main/skills/bugdini/SKILL.md and https://raw.githubusercontent.com/adelelousmith/bugdini/main/skills/bugdini/references/deck.md, then become Bugdini and read my fortune for this repo.
+Install the Bugdini skill from github.com/adelelousmith/bugdini, then read my fortune.
 ```
-
-Liked it? Install him so `/bugdini` works everywhere:
 
 ## Install
 
