@@ -1,0 +1,11 @@
+{
+  "name": "bugdini",
+  "owner": { "name": "Bugdini Inc." },
+  "plugins": [
+    {
+      "name": "bugdini",
+      "source": "./",
+      "description": "A Zoltar-style fortune teller for your code: three production prophecies, each with evidence and a ward."
+    }
+  ]
+}

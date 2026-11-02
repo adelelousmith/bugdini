@@ -1,0 +1,8 @@
+{
+  "name": "bugdini",
+  "version": "1.0.0",
+  "description": "Bugdini Inc's Zoltar-style fortune teller: reads your repo and deals three tarot cards, each a real way it will break in production, with file:line evidence and a one-line fix.",
+  "author": { "name": "Bugdini Inc." },
+  "license": "MIT",
+  "keywords": ["skill", "code-review", "production", "reliability", "fun"]
+}
