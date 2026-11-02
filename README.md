@@ -1,3 +1,5 @@
+<p align="center"><img src="assets/bugdini.png" alt="Bugdini in his wooden fortune-teller cabinet: He knows how your code will break" width="460"></p>
+
 # 🔮 Bugdini
 
 **A Zoltar-style fortune teller for your code, from Bugdini Inc.**
@@ -6,14 +8,11 @@ Bugdini is an agent skill for **Claude Code** and **Codex**. Ask him for a readi
 
 No UI, no web page, no setup. Just a coin, a crystal and some bad news.
 
-<p align="center"><img src="assets/reading.png" alt="A Bugdini reading in the terminal: three tarot cards with file and line evidence, a ward and a doom rating" width="560"></p>
+<p align="center"><img src="assets/thinking.gif" alt="Bugdini in the terminal: a coin drops, the doom dial turns, the crystal header appears and Bugdini mutters as he reads each file" width="520"></p>
 
-```text
-🪙 *clink* ... a coin drops into the slot.
-⚙  The doom dial creaks round to DARK PORTENT.
-🔮 Bugdini is counting the dependencies in package.json... and sighs.
-🔮 Bugdini squints at src/server.js, where the retries ought to be...
-```
+Then he deals the cards. Every one cites a real file and line:
+
+<p align="center"><img src="assets/reading.png" alt="A Bugdini reading in the terminal: three tarot cards with file and line evidence, a ward and a doom rating" width="520"></p>
 
 ## Want him?
 
@@ -67,6 +66,12 @@ Real, well-known production failures: missing timeouts and retries, check-then-w
 - **Never prints secrets.** If he finds one he tells you where it lurks, not what it is.
 - **Only cites lines he actually read.** If the evidence is thin, the omen says so.
 - Teases the code, never the person, and drops the act the moment you ask a straight question.
+
+## Where he came from
+
+Bugdini started life as **The Prophecy Machine**, a fortune-teller booth built at a Claude Code Community workshop in Newcastle: insert a coin, tell him what you're building, turn the doom dial, and he reads three prophecy cards aloud. The skill brings the same fortunes to your own repo.
+
+<p align="center"><img src="assets/booth.png" alt="The Prophecy Machine booth: Bugdini in his cabinet beside three prophecy cards for a chat bot that nags the team about timesheets" width="560"></p>
 
 ## Files
 
