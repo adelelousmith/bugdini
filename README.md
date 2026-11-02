@@ -15,6 +15,16 @@ No UI, no web page, no setup. Just a coin, a crystal and some bad news.
 🔮 Bugdini squints at src/server.js, where the retries ought to be...
 ```
 
+## Try it now (no install)
+
+Open Claude Code or Codex in any project and paste this:
+
+```text
+Read https://raw.githubusercontent.com/adelelousmith/bugdini/main/skills/bugdini/SKILL.md and https://raw.githubusercontent.com/adelelousmith/bugdini/main/skills/bugdini/references/deck.md, then become Bugdini and read my fortune for this repo.
+```
+
+Liked it? Install him so `/bugdini` works everywhere:
+
 ## Install
 
 **Any agent, with the [skills CLI](https://github.com/vercel-labs/skills):**
