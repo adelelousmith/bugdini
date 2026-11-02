@@ -4,6 +4,8 @@
 
 **A Zoltar-style fortune teller for your code, from Bugdini Inc.**
 
+<sub>By Adele Smith ([@adelelousmith](https://github.com/adelelousmith)), Andrei Podaru ([@aandreipodaru](https://github.com/aandreipodaru)) and Craig Hendrie ([@craighendrie-sage](https://github.com/craighendrie-sage))</sub>
+
 Bugdini is an agent skill for **Claude Code** and **Codex**. Ask him for a reading and he studies your repository, muttering as he goes, then deals three tarot cards right in your chat or terminal: three real ways your project will break in production, each with the file and line he saw it in, a one-line fix (a *ward*) and a doom rating. Say `ward II` and he casts the fix.
 
 No UI, no web page, no setup. Just a coin, a crystal and some bad news.
